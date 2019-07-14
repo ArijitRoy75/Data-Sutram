@@ -1,4 +1,4 @@
-#defining funcition for list normalisation
+#defining function for list normalisation
 def normalize_list(lis):
     max_value = max(lis)
     min_value = min(lis)
